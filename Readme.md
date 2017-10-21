@@ -31,8 +31,9 @@ Note that the 'Systems' knowledge topic has been referred as 'HPC' (High Perform
 The ACL dataset used to create this dataset is available in ACL website. Please refer the thesis for more details.
 The document_id in CNESSI dataset corresponds to the document_id available in the ACL dataset. Hence the citation map in the ACL dataset can be used along with CNESSI dataset.
 
-*Total number of research documents covered: 7995
-*Total closed (internal) cited-to documents: 3356
+* Total number of research documents covered: 7995
+
+* Total closed (internal) cited-to documents: 3356
 
 ### Data Exploration:
 A sample code will be put up containing some sample code to explore different useful attributes available in the CNESSI dataset.
