@@ -1,9 +1,15 @@
 # CNESSI: Citation Network with Enhanced Structural and Semantic Information.
 
+The is an innovative project in Scientometry, aimed at qualitative improvement of Digital Libraries and indexing tools like Google Scholar. The lack of semantic and structural information in the available Citation Networks is restricting us to extract insights based on the quantitative knowledge present in the research documents. With the help of such quantitative knowledge embedded in the citation network, it is possible to connect and track the growth the knowledge in certain fields of study (knowledge topics) and extract many useful insights.
+
+Through this research project, we have created CNESSI, which contains 'structural' and 'semantic' information in the form of 'Knowledge-Share-Vectors (KSV)' embedded in each node (research document and each section of research document) of the Citation Network. The section-wise text organization adds 'structural' information and the quantified KSVs for each section and reseach document add the 'semantic' information to the citation network.
+
 Detailed description of how this dataset was created, how this dataset will help for further research and possible applications that can be developed with this dataset have been explained in detail in the thesis (*CNESSI-Thesis*) put up in the repository.
 
-### Dataset Description.
+### CNESSI Dataset Description.
 CNESSI Dataset files are available in "CNESSI_Dataset.zip" file present in this repository. Please extract the zip file into a local folder.
+
+This CNESSI dataset was created using the ACL anthology reference corpus [link] (https://aclanthology.info/papers/L08-1005/l08-1005).
 
 ###### Description of files in the CNESSI dataset:
 1. doc_id_obj_dict.pickle: Serialized (Pickle) file containing the mapping from every research document_id to respective ResearchDocument python object. 
