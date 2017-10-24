@@ -1,6 +1,6 @@
 # CNESSI: Citation Network with Enhanced Structural and Semantic Information.
 
-The is a research project in Scientometry, aimed at qualitative improvement of Digital Libraries and indexing tools like Google Scholar. The lack of semantic and structural information in the available Citation Networks is restricting us to extract insights based on the quantitative knowledge present in the research documents. With the help of such quantitative knowledge embedded in the citation network, it is possible to connect and track the growth the knowledge in specific fields of study and extract vast number of useful insights.
+The is a research project in Scientometry, aimed at qualitative improvement of Digital Libraries and indexing tools like Google Scholar. The lack of semantic and structural information in the citation networks is restricting us to extract insights based on the quantitative knowledge present in the research documents. With the help of such quantitative knowledge embedded in the citation network, it is possible to connect and track the growth the knowledge in specific fields of study and extract vast number of useful insights.
 
 Through this research project, we have created CNESSI, which contains 'structural' and 'semantic' information in the form of 'Knowledge-Share-Vectors (KSV)' embedded in each node (research document and each section of research document) of the Citation Network. The section-wise text organization adds 'structural' information and the quantified KSVs for each section and reseach document add the 'semantic' information to the citation network.
 
@@ -46,7 +46,17 @@ A sample code will be put up containing some sample code to explore different us
 ### Python modules used for creating the dataset:
 lda-1.0.3, nltk-3.1, pattern-2.6, pbr-1.8.1, scikit-learn-0.16.1
 
+### Affiliation:
+*Bhuvan M S, National Insitute of Technology Karnataka, Surathkal, Dept. Information Technology.*
 
+*Govind Sharma, Indian Institue of Science, Dept. Computer Science and Automation, Topic Synthesis and Analysis Lab.*
+
+*Prof. M Narasimha Murty, Indian Institute of Science, Dept. Computer Science and Automation, Topic Synthesis and Analysis Lab.*
+
+*Prof. Ananthanarayana. V. S, National Institue of Technology Karnataka, Surathkal, Dept. Information Technology.*
+
+### Contact:
 Please feel free to contact me on *msbhuvanbhuvi@gmail.com* for any queries. Please report any issues found in the dataset.
 
+### Citation:
 I will add a citation link soon, which can be used for citing any work inpsired from CNESSI dataset and research.
