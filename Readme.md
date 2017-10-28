@@ -49,11 +49,11 @@ lda-1.0.3, nltk-3.1, pattern-2.6, pbr-1.8.1, scikit-learn-0.16.1
 ### Affiliation:
 **Bhuvan M S**, National Insitute of Technology Karnataka, Surathkal, Dept. Information Technology.
 
-**Govind Sharma**, Indian Institue of Science, Dept. Computer Science and Automation, Topic Synthesis and Analysis Lab.*
+**Govind Sharma**, Indian Institue of Science, Dept. Computer Science and Automation, Topic Synthesis and Analysis Lab (Project mentor).
 
-**Prof. M Narasimha Murty**, Indian Institute of Science, Dept. Computer Science and Automation, Topic Synthesis and Analysis Lab.*
+**Prof. M Narasimha Murty**, Indian Institute of Science, Dept. Computer Science and Automation, Topic Synthesis and Analysis Lab (Project guide at IISC).
 
-**Prof. Ananthanarayana. V. S**, National Institue of Technology Karnataka, Surathkal, Dept. Information Technology.*
+**Prof. Ananthanarayana. V. S**, National Institue of Technology Karnataka, Surathkal, Dept. Information Technology (Project guide at NITK, Surathkal).
 
 ### Contact:
 Please feel free to contact by e-mailing to *msbhuvanbhuvi@gmail.com* for any queries. Please report any issues found in the dataset.
