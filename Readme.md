@@ -41,7 +41,7 @@ The document_id in CNESSI dataset corresponds to the document_id available in th
 * Total closed (internal) cited-to documents: 3356
 
 ### Data Exploration:
-A sample code will be put up containing some sample code to explore different useful attributes available in the CNESSI dataset.
+A sample code has been put up explore various useful attributes available in the CNESSI dataset. The python script - "sample_data_exploration.py" is available in the zip folder containing the CNESSI_Dataset.
 
 ### Python modules used for creating the dataset:
 lda-1.0.3, nltk-3.1, pattern-2.6, pbr-1.8.1, scikit-learn-0.16.1
