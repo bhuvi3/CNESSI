@@ -21,7 +21,7 @@ This CNESSI dataset was created using the [ACL anthology reference corpus](https
 4. venue_dict.pickle: Serialized (Pickle) file containing the mapping from every venue_id to venue_title.
 
 ###### The section id to section type mappings:
-section_id_map = {1:"motivation", 2:"lit_survey", 3:"methodology", 4:"results", 5:"conclusion" }
+section_id_to_section_type_map = {1: 'Motivation', 2: 'Background', 3: 'LiteratureReview', 4: 'Methodology', 5: 'ResultAndAnalysis', 6: 'ConclusionAndFutureWork'}
 
 ###### The Knowledge Share Vector (ksv) mappings:
 knowledge_topic_map = {1: 'NLP', 2:'InformationRetrieval', 3: 'ML', 4: 'DSA', 5: 'Systems'}.
